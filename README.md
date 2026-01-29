@@ -1,5 +1,4 @@
 # Quantum-Learning-Journey.
-My collection of quantum circuits, algorithms implementations (Grover, Shor), and QEC codes during my training at Quantum AI Lab.
 
 Welcome to my personal archive of Quantum Computing exploration! This repository documents my technical growth and research activities at the **Quantum AI Lab** (Phenikaa University) as a freshman from **USTH**.
 
